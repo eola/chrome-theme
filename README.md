@@ -1,5 +1,6 @@
-#eola theme for Google Chrome
+# eola theme
+For Google Chrome
 
-[Install away!](./eola-chrome-theme.crx)
+[Download away!](https://github.com/eola/eola-chrome/blob/master/eola-chrome-theme.crx?raw=true)
 
 ![alt text](./screenshot.png)
