@@ -3,6 +3,9 @@
   "version": "1.0",
   "description": "eola-branded theme for Google Chrome",
   "manifest_version": 2,
+  "icons": {
+      "128": "images\/icon.png"
+  },
   "theme": {
      "images": {
         "theme_frame": "images\/theme_frame.png",
@@ -11,7 +14,7 @@
      },
      "colors": {
         "frame": [ 32, 40, 82 ],
-        "toolbar": [ 255, 72, 61 ],
+        "toolbar": [ 95, 110, 182 ],
         "tab_text": [ 255, 255, 255 ],
         "tab_background_text": [ 255, 255, 255 ],
         "bookmark_text": [ 255, 255, 255 ],
